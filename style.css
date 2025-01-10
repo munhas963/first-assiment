@@ -1,0 +1,123 @@
+.baner-s-tatle{
+    color: #0E0E0E;
+    font-size: 24px;
+    font-weight: bold;
+    font-display: 50%;
+}
+.baner-title{
+    font-size: 56px;
+  color: #0E0E0E;
+  font-weight: bold;
+}
+.btn-parimary{
+    background-color: #006A50;
+    color: #FFFFFF;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 17px 34px;
+    border: none;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 160px;
+    background-color: #C6E4D6;
+    width: 1280px;
+    border-radius: 24px;
+    gap: 64px;
+    
+}
+.banner-contant{
+    padding: 117px 0px 117px 59px;
+    max-width: 622px;
+}
+.profile-pic{
+    width: 474.03px;
+    padding: 80px 60px 80px 0px ;
+}
+.section-tatle{
+    color: #0E0E0E;
+    margin: 80px 160px 0px 160px;
+}
+.sec-desction{
+    color: #0E0E0E;
+    margin: 24px 160px 32px 160px;
+    font-size: 16px;
+}
+.holdbar-child{
+    display: flex;
+    gap: 24px;
+    padding: 32px 160px;
+}
+
+.child1{
+    width: 410px;
+    border-radius: 16px;
+    background-color: #b4c6e6;
+    padding: 32px;
+    box-shadow: 0px 6px 4px 0px #000000;
+}
+.child2{
+    width: 410px;
+    border-radius: 16px;
+    background-color:#C6E4D6;
+    padding: 32px;
+    box-shadow: 0px 6px 4px 0px #000000;
+}
+.child3{
+    width: 410px;
+    border-radius: 16px;
+    background-color: #F7EBCF;
+    padding: 32px;
+        box-shadow: 0px 6px 4px 0px #000000;
+}
+
+
+.child-title{
+    font-size: 20px;
+    color: #0E0E0E;
+}
+.child-desction{
+font-size: 16px;
+color: #0E0E0E;
+}
+.btn1{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #5490F5;
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+}
+.btn2{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    background-color:#09A15C;
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+}
+.btn3{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    background-color:#FFC239;
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+}
+.card1{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    padding: 80px 0px 0px 160px;
+}
+.card-drcetion{
+    font-size: 16px;
+    font-weight:regular ;
+    color: #0E0E0E;
+    padding: 0px 0px 32px 160px;
+}
