@@ -144,7 +144,7 @@ color: #0E0E0E;
     gap: 32px;
     margin: 32PX 160PX 24PX 160PX;
     background-color: #FFFFFF;
-    max-width: 1280PX;
+    /* max-width: 1280PX; */
     border-radius: 24PX;
 }
 .limg{
