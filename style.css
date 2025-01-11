@@ -147,3 +147,33 @@ color: #0E0E0E;
     padding: 13px 26px;
     border: none;
 }
+
+
+.card2{
+    display: flex;
+    gap: 32px;
+    margin: 32PX 160PX 24PX 160PX;
+    background-color: #FFFFFF;
+    max-width: 1280PX;
+    border-radius: 24PX;
+
+}
+.test2{
+    width: 744px;
+}
+
+.r-img{
+    width: 408px;
+    border-radius: 24px;
+}
+.L-btn{
+    background-color: #006A50;
+    border-radius: 8px;
+    font-size: 18px ;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 13px 26px;
+    border: none;
+}
+
+
