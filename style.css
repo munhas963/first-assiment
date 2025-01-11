@@ -26,6 +26,7 @@
     width: 1280px;
     border-radius: 24px;
     gap: 64px;
+    height: 560px;
     
 }
 .banner-contant{
@@ -120,4 +121,29 @@ color: #0E0E0E;
     font-weight:regular ;
     color: #0E0E0E;
     padding: 0px 0px 32px 160px;
+}
+.hcard{
+    display: flex;
+    gap: 32px;
+    margin: 32PX 160PX 24PX 160PX;
+    background-color: #FFFFFF;
+    max-width: 1280PX;
+    border-radius: 24PX;
+}
+.limg{
+    width: 408px;
+    border-radius: 24px;
+    
+}
+.text-dct{
+    width: 744px;
+}
+.r-btn{
+    background-color: #006A50;
+    border-radius: 8px;
+    font-size: 18px ;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 13px 26px;
+    border: none;
 }
