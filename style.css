@@ -1,3 +1,7 @@
+
+.bb{
+    background-color: #F5F5F5;
+}
 .baner-s-tatle{
     color: #0E0E0E;
     font-size: 24px;
@@ -17,6 +21,9 @@
     font-size: 18px;
     padding: 17px 34px;
     border: none;
+}
+.btn-parimary:hover{
+    background-color: #c715c7;
 }
 .banner{
     display: flex;
@@ -40,6 +47,7 @@
 .section-tatle{
     color: #0E0E0E;
     margin: 80px 160px 0px 160px;
+    font-size: 40px;
 }
 .sec-desction{
     color: #0E0E0E;
@@ -92,6 +100,9 @@ color: #0E0E0E;
     border-radius: 8px;
     border: none;
 }
+.btn1:hover{
+    background-color: #eeeb56;
+}
 .btn2{
     color: #FFFFFF;
     font-size: 16px;
@@ -100,6 +111,9 @@ color: #0E0E0E;
     padding: 11px 20px;
     border-radius: 8px;
     border: none;
+}
+.btn2:hover{
+    background-color: #e023a1;
 }
 .btn3{
     color: #FFFFFF;
@@ -110,7 +124,10 @@ color: #0E0E0E;
     border-radius: 8px;
     border: none;
 }
-.card1{
+.btn3:hover{
+    background-color: #27adce;
+}
+.card01{
     font-size: 40px;
     font-weight: bold;
     color: #0E0E0E;
@@ -132,11 +149,14 @@ color: #0E0E0E;
 }
 .limg{
     width: 408px;
-    border-radius: 24px;
-    
+    height: 306px;
+    border-radius:24px;  
+    margin: 48px 0px 48px 48px;  
+
 }
 .text-dct{
     width: 744px;
+    padding: 56px 48px 56px 0px;
 }
 .r-btn{
     background-color: #006A50;
@@ -147,12 +167,15 @@ color: #0E0E0E;
     padding: 13px 26px;
     border: none;
 }
+.r-btn:hover{
+    background-color: #1c38da;
+}
 
 
 .card2{
     display: flex;
     gap: 32px;
-    margin: 32PX 160PX 24PX 160PX;
+    margin: 0PX 160PX 0PX 160PX;
     background-color: #FFFFFF;
     max-width: 1280PX;
     border-radius: 24PX;
@@ -160,10 +183,12 @@ color: #0E0E0E;
 }
 .test2{
     width: 744px;
+    padding: 56px 0px 56px 48px;
 }
 
 .r-img{
     width: 408px;
+    margin: 48px 48px 48px 0px;
     border-radius: 24px;
 }
 .L-btn{
@@ -175,5 +200,96 @@ color: #0E0E0E;
     padding: 13px 26px;
     border: none;
 }
+.L-btn:hover{
+    background-color: #c95c65;
+}
+.Donate{
+    margin: 80px 160px 0px 160px;
+    
 
+}
+.dhead{
+font-size: 40px;
+font-weight: bold;
+color: #0E0E0E;
+text-align: center;
+}
+.pr-head{
+  padding: 0px 104px;
+  margin-bottom: 32px;
+}
+.bhead{
+    display: flex;
+    gap: 24px;
 
+}
+.baby1{
+border: 2px solid red;
+background-color: #FFFFFF;
+padding: 40px;
+font-size: 40px;
+font-weight: bold;
+border-radius: 16px;
+text-align: center;
+width: 240px;
+border: none;
+
+}
+.baby2{
+    border: 2px solid red;
+    background-color:#C6E4D6;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 16px;
+    text-align: center;
+    width: 252px;
+    border: none;
+}
+.baby3{ 
+    border: 2px solid red;
+    background-color: #FFFFFF;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 16px;
+    text-align: center;
+    width: 243px;
+    border: none;
+
+}
+.baby4{
+    border: 2px solid red;
+    background-color: #FFFFFF;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 16px;
+    text-align: center;
+    width: 264px;
+    border: none;
+}
+.bar{
+    width: 1032px;
+    padding: 20px 40px ;
+    color: #857979;
+    background-color: #FFFFFF;
+    text-align: center;
+    margin: 32px 124px 0px 115px;
+   align-items: center;
+  
+
+}
+.pay{
+    background-color: #006A50;
+    padding: 17px 34px;
+    border-radius: 8px;
+    width: 151px;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin: 32px 584px 0px 584px;
+
+}
+.pay:hover{
+    background-color: #ce278e;
+}
